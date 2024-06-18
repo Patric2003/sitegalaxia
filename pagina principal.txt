@@ -1,0 +1,33 @@
+[CABEÇALHO]
+
+*IMAGEM DO ESPAÇO*
+Espaço
+
+[CABEÇALHO]
+
+
+[NAVEGAÇÃO (ENFEITE SSKSK)]
+
+*TRANSPARENTE*
+MENU SOBRE INFO
+
+[NAVEGAÇÃO (ENFEITE SSKSK)]
+
+
+[BODY]
+Sistema solar
+*imagem do sol*
+
+Buraco negro
+*imagem buraco negro*
+
+Grupos de galaxias
+*imagem da galaxia*
+
+
+
+fontes: galáxia: "Galáxia"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/geografia/galaxia.htm.
+sistema solar: "Sistema Solar"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/geografia/sistema-solar.htm.
+buraco negro: "Buraco negro"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/geografia/buraco-negro.htm.
+[foot]
+site criado por Patric Valente

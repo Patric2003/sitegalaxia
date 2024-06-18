@@ -1,0 +1,44 @@
+GALAXIAS
+*imagem*
+o que são?
+Basicamente, as galáxias são sistemas massivos compostos por estrelas, planetas, gás, poeira cósmica e matéria escura. Elas são as unidades fundamentais do Universo observável, atuando como verdadeiras cidades de estrelas, onde bilhões ou até mesmo trilhões de astros estão agrupados por meio da atração gravitacional.
+As galáxias são sistemas formados por milhares a trilhões de estrelas, poeira, gases e matéria escura. Sua classificação e identificação pode ocorrer de acordo com a forma, sendo assim elípticas, espirais ou irregulares (quando não possuem um contorno definido). A Via Láctea, galáxia em que vivemos, é uma das maiores da região do Universo conhecida como Grupo Local e segue em processo de evolução, o que ocasionará a sua colisão com a galáxia de Andrômeda.
+quantas pode ter?
+centenas de bilhões de galáxias no Universo.
+*imagem galaxias*
+
+tipo de galaxias
+Elípticas: possuem forma circular e achatada. As galáxias elípticas são integradas por uma menor quantidade de poeira e gás quando comparadas às demais. Possuem estrelas muito antigas, e há pouca ou nenhuma atividade de formação de novos astros. Algumas das galáxias elípticas são muito alongadas, e as maiores delas chegam a até 300.000 anos-luz de diâmetro, de acordo com a Nasa. As menores, chamadas de galáxias anãs, são, no entanto, mais comuns. Aproximadamente um terço das galáxias do Universo tem formato elíptico, como Andrômeda.
+*imagem galaxia eliptica*
+
+Espirais: são as mais comuns e correspondem a dois terços de todas as galáxias conhecidas, uma delas a Via Láctea. As galáxias espirais possuem uma forma que se assemelha a um disco, composto por braços que a circundam, os quais podem sair diretamente de uma região central, denominada núcleo (espirais normais), ou de uma barra de estrelas que atravessa o seu centro (espirais barradas). Aparecem com uma cor branco-azulada e são compostas por gases, poeira e estrelas, havendo intenso processo de formação de novos astros no seu interior.
+*imagem galaxia espirais*
+
+Irregulares: como o próprio nome sugere, as galáxias irregulares não possuem um formato definido que permita uma classificação mais pormenorizada. São formações muito antigas, que apareceram anteriormente às elípticas e espirais. Elas são formadas por poeira e gases, e a sua forma irregular ocorre em função da influência do campo gravitacional de outras galáxias localizadas na sua proximidade. De acordo com a Nasa, esse tipo de galáxia era o mais abundante no início da composição do Universo e, em função disso, aquelas observadas hoje em dia são muito antigas.
+*imagem galaxia irregular*
+
+principais galaxias
+-Via Láctea: é a galáxia em que está localizado o Sistema Solar e, portanto, onde vivemos. Sua forma corresponde a uma espiral barrada, com um núcleo brilhante e barras estelares de onde se projetam os seus braços. Ela possui 100.000 anos-luz de comprimento, o equivalente a 946 quadrilhões de quilômetros. Até o século XX, acreditava-se que ela estava localizada no centro do Universo, e as demais galáxias eram até então interpretadas como sendo nebulosas. Seu peso aproximado é de 1,5 trilhão Мʘ, e estima-se que a Via Láctea possua 200 bilhões de estrelas e um buraco negro de 4 milhões de massas solares no seu interior.
+
+*imagem via lactea*
+
+-Andrômeda: é a maior e mais brilhante galáxia próxima da Via Láctea e pode ser vista a olho nu. Por vezes, é chamada de Messier 31 (M31), uma vez que foi a 31ª das importantes descobertas feitas pelo astrônomo francês Charles Messier. Ela possui o dobro do diâmetro da Via Láctea, com 250 milhões de anos-luz. Ambas, em conjunto com a Galáxia do Triângulo, correspondem às maiores galáxias do que se conhece como Grupo Local, que é a região do Universo correspondente a um conjunto de 54 outros conglomerados estelares, incluindo galáxias anãs. Possui um trilhão de estrelas e massa de 1,2 bilhão M☉.
+*imagem andromeda*
+
+-Galáxia do Triângulo: conhecida também como Messier 33, é uma galáxia em espiral que faz parte do Grupo Local, com diâmetro de 60 mil anos-luz, portanto menor do que a Via Láctea, mas a terceira maior da região. É formada por 40 milhões de estrelas, e estima-se que a sua massa seja de 50 bilhões M☉.
+*imagem galaxia do triangulo*
+
+-Nuvens de Magalhães: são duas galáxias satélites da Via Láctea. A menor delas se chama Pequena Nuvem de Magalhães e possui diâmetro de 7 mil anos-luz. A Grande Nuvem de Magalhães, por sua vez, mede 14 mil anos-luz de diâmetro, e ambas são consideradas galáxias anãs.
+*imagem nuvens de magalhaes*
+
+qual a menor e maior galaxia?
+maior: Alcyoneus.
+com 16,3 milhões de anos-luz de comprimento.
+*imagem Alcyoneu*
+
+menor: Pequena Nuvem de Magalhães.
+com  7 mil anos-luz de comprimento.
+*imagem pequeno nuvem de magalhaes*
+
+*video galaxia*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lEgiZSPoXwk?si=4QF7GoUU6nkyn-mj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,0 +1,49 @@
+buraco negro
+*imagem*
+
+O que são?
+-Buracos negros são objetos astronômicos extremamente massivos que apresentam densidade infinita e um campo gravitacional muito intenso.
+-Têm origem do colapso gravitacional de outros corpos celestes, como as estrelas.
+-Sua estrutura é formada por três elementos principais: singularidade, horizonte de eventos e discos de acreção.
+
+ Os buracos negros podem ser definidos como objetos astronômicos extremamente densos e com um campo gravitacional muito intenso. Outros corpos celestes, gases e até mesmo a luz são atraídos para o interior dos buracos negros quando a velocidade em que se movem não é rápida o suficiente para escapar da atração exercida na região localizada no entorno do centro deles, chamada de horizonte de eventos.
+Uma vez em seu interior, é quase impossível que os materiais retornem ao espaço. No entanto, já se sabe atualmente que esses objetos conseguem emitir radiação térmica derivada dos efeitos quânticos desencadeados no seu interior. Essa radiação é conhecida como radiação Hawking, uma vez que a sua existência foi teorizada pelo físico teórico Stephen Hawking (1942-2018) em 1974.
+É importante lembrar que a velocidade que os objetos devem atingir para não serem atraídos pela gravidade de outros é denominada velocidade de escape. Nos buracos negros, essa velocidade é superior à da luz, e por isso ela também é sugada por esses objetos.
+
+*imagem buraco negro*
+
+Quantos buracos negros exsitem no universo?
+
+Os astrônomos estimam que 100 milhões de buracos negros vagam entre as estrelas da Via Láctea, mas nunca identificaram conclusivamente um buraco negro isolado. 
+Na via lactea Até o momento, foram encontrados aproximadamente 20 deles, mas já existem outros candidatos que estão sendo estudados. A massa desses objetos cósmicos pode representar apenas algumas vezes a massa do Sol, mas também pode chegar a até centenas de vezes. 
+
+como se forma um buraco negro?
+
+Os buracos negros se originam por meio do colapso gravitacional de outros corpos celestes e materiais presentes no espaço, como é o caso das estrelas supermassivas, que possuem pelo menos três vezes a massa do Sol.
+Todas as estrelas são essencialmente formadas por poeira e gases, com reações termonucleares que acontecem na sua camada mais interna, o núcleo. A compactação desses astros acontece quando os elementos responsáveis pela fusão nuclear (combustíveis) se esgotam, o que desencadeia uma explosão denominada supernova. Nas estrelas massivas, a atração gravitacional é tão intensa que elas se compactam até chegarem ao estágio dos buracos negros.
+
+
+
+qual foi a primeira foto de um buraco negro?
+A primeira imagem já feita de um buraco negro foi divulgada internacionalmente no dia 10 de abril de 2019, representando um importante marco para a ciência. Ele fica localizado no centro da galáxia Messier 87 (M87), a uma distância aproximada de 55 milhões de anos-luz da Via Láctea. Estima-se que esse buraco negro apresente massa 6,5 bilhões de vezes superior à do Sol.
+*imagem buraco negro (o primeiro fotografado)*
+
+tipos de buracos negros
+Os buracos negros são classificados, de acordo com a sua massa, em:
+
+-Buracos negros estelares: são aqueles derivados do colapso gravitacional das estrelas que possuem pelo menos o triplo da massa do Sol. São os mais comuns no nosso Universo.
+-Buracos negros supermassivos: são centenas de milhares e até bilhões de vezes mais massivos que o Sol, e estão localizados mais comumente no centro das galáxias. Um exemplo é o Sagitário A*, que fica no centro da Via Láctea. Sua formação ainda é incerta, e acredita-se que pode ter se originado do colapso de aglomerados estelares, gases ou também da fusão de buracos negros menores.
+-Buracos negros intermediários: são aqueles com massa intermediária, entre os estelares e supermassivos.
+
+qual o menor e o maior buraco negro?
+maior: Gaia BH-3
+possui 33 vezes a massa do nosso sol (massa do sol= 1,98892 × 10^30, ou seja Gaia BH-3 possui 67603.3908 de massa)
+*imagem gaia bh-3*
+menor: NAO ENCONTREI
+
+*animação de como seria um buraco negro*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YK3NKltRoA4?si=6Hyuv6Jf1PgGaaCa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<- voltar
+
+
