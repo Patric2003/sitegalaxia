@@ -4,8 +4,21 @@
     margin: 0%;
 }
 body{
-    background-color:rgb(44, 41, 66);
+    background-color:rgb(24, 24, 27);
     font-family: Arial, Helvetica, sans-serif;
+}
+ main{
+   /*background-color:rgba(62, 62, 65, 0.24);*/
+   
+    padding: 20px;
+    padding-top: 10px;
+    margin: auto;
+    min-width: 150px;
+    max-width: 1400px;
+    /*box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.199);*/
+    margin-bottom: 30px;
+    border-bottom-left-radius: 10px ;
+    border-bottom-right-radius: 10px;
 }
 header{
     background-image: url(espaço.jpg);
@@ -56,29 +69,46 @@ nav >a:hover{
    
 }
 div{
-    
+    margin: auto;
+    color: white;
     padding-top: 10px;
-    padding-left: 45px;
-    height: 150px;
-    max-width: 93%;
-    min-width: 74%;
-    border-radius: 0px 35px 35px 0px;
-    margin-left: 20px;
+    padding-left: 15px;
+    height: 300px;
+    min-height: 150px;
+    width: 550px;
+    padding-right: 15px;
+    min-width:150px;
+    max-width: 1500px;
+    min-width: 60%;
+    border-radius: 50px 50px 50px 50px;
     box-shadow: 0px 0px 7px  rgba(0, 0, 0, 0.308);
-    margin-bottom: 15px;
     padding-top: 15px;
+    margin-bottom: 50px;
+    margin-top: 50px;
     
     
 
 }
+
+
+
 div:hover{
-  
+    
     background-color: rgba(255, 255, 255, 0.185);
     
 }
-div > img{
-    width: 100px;
-    height: 100px;
+div>img{ 
+    text-align: center;
+    width: 250px;
+    height: 250px;
+
+}
+div > .esquerda{  
+    justify-content: center;
+    width: 250px;
+    height: 250px;
+    box-shadow: 2px 3px 5px black;
+   
 }
 
 
