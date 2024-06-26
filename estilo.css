@@ -87,8 +87,11 @@ div{
     background-color: rgb(29, 29, 31);
     
 }
-div>h1{
-    text-align:center;
+.letra{
+    text-align: center;
+    
+    margin-left: 75px;
+  
     
 }
 
@@ -104,7 +107,7 @@ div>img{
     height: 140px;
     width: 140px;
     box-shadow: 1px 2px 7px  rgba(0, 0, 0, 0.493);
-
+    justify-content: center;
 
 }
 
