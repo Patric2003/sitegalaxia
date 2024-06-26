@@ -89,7 +89,9 @@ div{
 }
 .letra{
     text-align: center;
-    
+    padding-left: 3em;
+    width: 1em;
+    height: 1em;
     margin-left: 75px;
   
     
