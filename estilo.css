@@ -89,11 +89,10 @@ div{
 }
 .letra{
     text-align: center;
-    padding-left: 6em;
-    width: 1em;
-    height: 1em;
-    margin-left: 75px;
   
+   
+    min-width: 250px;
+   
     
 }
 
@@ -110,6 +109,7 @@ div>img{
     width: 140px;
     box-shadow: 1px 2px 7px  rgba(0, 0, 0, 0.493);
     justify-content: center;
+    display: block;
 
 }
 
