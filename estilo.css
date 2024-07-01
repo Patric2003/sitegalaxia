@@ -1,4 +1,20 @@
 @charset "UFT-8";
+@font-face {
+    font-family: 'Designer' ;
+    src: url(fonte/Designer.otf) format("OpenType");
+    font-size: normal;
+}
+@font-face {
+    font-family: 'Philo';
+    src: url(fonte/philosopher/Philosopher-Bold.ttf) format('TrueType');
+    font-size: normal;
+}
+
+@font-face {
+    font-family:'Isan' ;
+    src: url(fonte/insaniburger/Insanibc.ttf) format('TrueType');
+    font-size: normal;
+}
 *{
     padding: 0%;
     margin: 0%;
@@ -23,16 +39,19 @@ header{
     
 }
 header >h1{
+    font-family: 'Designer';
     font-size: 4em;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     font-weight: normal;
-    text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.24);
+    text-shadow: 6px 0px 0px rgba(128, 0, 128, 0.39);
 }
 header >p{
-    font-size: 13px;
-    margin-bottom: 10px;
+    font-size: 18px;
+    font-family: 'Philo';
+    
+    margin-bottom: 15px;
     font-weight: normal;
-    text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.24);
+    text-shadow: 3px 0px 0px rgba(128, 0, 128, 0.39);
 }
 nav{
     background-image: url(espaço.jpg);
@@ -66,7 +85,10 @@ div{
     width: 96%;
     height: 150px;
     min-width: 350px;
-    color: white;
+    font-family: 'Isan';
+    font-size: 17px;
+    color:rgb(235, 235, 235);
+    text-shadow: 3px 0px 0px rgba(128, 0, 128, 0.39);
     box-shadow: 0px 9px 10px  rgba(0, 0, 0, 0.24);
     border-radius: 0px 30px 30px 30px;
     text-align: center;
@@ -80,9 +102,6 @@ div:hover{
     
 }
 
-h1{
-    
-}
 img{
     margin-top: 5px;
     width: 110px;
